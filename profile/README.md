@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦊 Hey, I'm Fabi
+#  Hey, I'm Fabi
 
 **Systems Engineer Virtualization ⚙️ · Homelab Tinkerer 🏠 · Vibecoder ⚡**
 
@@ -20,6 +20,24 @@
 - 🏠 **By night:** Self-hosting way too many services on my Proxmox cluster (yes, the nodes are named `hogwarts` and `hogsmeade`)
 - 🤖 **Smart home:** Homey Pro with ~60 devices and more automations than rooms
 - ⚡ **Vibecoding:** Shipping side projects by describing them to an AI until they exist
+
+
+## 🎓 Certifications
+ 
+![Lenovo Self Maintainer](https://img.shields.io/badge/Lenovo-Authorized_Self_Maintainer-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+ 
+Authorized under the **Lenovo Self Maintainer Program** to perform in-warranty service and parts replacement on ThinkSystem hardware.
+ 
+<details>
+<summary><b>Completed ThinkSystem Service Training</b> — Lenovo ISG Services Education, Sept 2025</summary>
+<br>
+- Servicing the ThinkSystem SR635 V3
+- AMD EPYC Processor Architecture for ThinkSystem V3 Servers
+- Servicing ThinkSystem Storage Controllers
+- Servicing the ThinkSystem 4350/5350/9350 RAID/HBA Series Adapters
+- ThinkSystem Problem Determination
+- Introducing ThinkSystem Tools
+</details>
 
 ## 🛠️ Stack
 
@@ -55,7 +73,7 @@
 Saving up for the trip of a lifetime — **Halloween 2027 in Japan** with my best friends.
 Tokyo neon, shrine gates, ramen at 2am. Every coffee fuels the flight fund. ✈️
 
-[![Ko-fi Goal](https://img.shields.io/badge/☕_Fuel_the_flight,_feed_the_fox-🦊-black?style=for-the-badge)](https://ko-fi.com/fbnlrz)
+[![Ko-fi Goal](https://img.shields.io/badge/☕_Fuel_the_flight⛩️-black?style=for-the-badge)](https://ko-fi.com/fbnlrz)
 
 ## 📊 Stats
 
