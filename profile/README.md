@@ -42,8 +42,7 @@ Tokyo neon, shrine gates, ramen at 2am. Every coffee fuels the flight fund. âœˆï
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbnlrz&show_icons=true&theme=synthwave&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbnlrz&layout=compact&theme=synthwave&hide_border=true)
+![Stats](https://streak-stats.demolab.com/?user=fbnlrz&theme=neon-dark&hide_border=true)
 
 </div>
 
