@@ -36,7 +36,6 @@ Authorized under the **Lenovo Self Maintainer Program** to perform in-warranty s
 - Servicing ThinkSystem Storage Controllers
 - Servicing the ThinkSystem 4350/5350/9350 RAID/HBA Series Adapters
 - ThinkSystem Problem Determination
-- Introducing ThinkSystem Tools
 </details>
 
 ## 🛠️ Stack
