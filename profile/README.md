@@ -16,8 +16,8 @@
 
 ## ⚡ What I do
 
-- 🖥️ **By day:** KVM virtualization at scale — hypervisor fleets, server hardware, incident firefighting
-- 🏠 **By night:** Self-hosting way too many services on my Proxmox cluster (yes, the nodes are named `hogwarts` and `hogsmeade`)
+- 🖥️ **By day:** KVM virtualization at scale — hypervisor fleets, High Availability Coompute Clusters, server hardware, incident firefighting
+- 🏠 **By night:** Self-hosting way too many services on my Proxmox cluster and a few netcup Servers
 - 🤖 **Smart home:** Homey Pro with ~60 devices and more automations than rooms
 - ⚡ **Vibecoding:** Shipping side projects by describing them to an AI until they exist
 
@@ -31,8 +31,8 @@ Authorized under the **Lenovo Self Maintainer Program** to perform in-warranty s
 <details>
 <summary><b>Completed ThinkSystem Service Training</b> — Lenovo ISG Services Education, Sept 2025</summary>
 <br>
-- Servicing the ThinkSystem SR635 V3
-- AMD EPYC Processor Architecture for ThinkSystem V3 Servers
+- Servicing the ThinkSystem (multiple Models) 
+- AMD EPYC Processor Architecture for ThinkSystem Servers
 - Servicing ThinkSystem Storage Controllers
 - Servicing the ThinkSystem 4350/5350/9350 RAID/HBA Series Adapters
 - ThinkSystem Problem Determination
@@ -72,7 +72,8 @@ Authorized under the **Lenovo Self Maintainer Program** to perform in-warranty s
 Saving up for the trip of a lifetime — **Halloween 2027 in Japan** with my best friends.
 Tokyo neon, shrine gates, ramen at 2am. Every coffee fuels the flight fund. ✈️
 
-[![Ko-fi Goal](https://img.shields.io/badge/☕_Fuel_the_flight⛩️-black?style=for-the-badge)](https://ko-fi.com/fbnlrz)
+[![Ko-fi](https://img.shields.io/badge/☕_Fuel_the_flight⛩️-FF00FF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/fbnlrz)
+[![Buy Me A Coffee](https://img.shields.io/badge/Flight_to_Japan-✈️_Fund-00FFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/fbnlrz)
 
 ## 📊 Stats
 
