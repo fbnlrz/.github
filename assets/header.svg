@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="fbnlrz — systems engineer, homelab">
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#FF00FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FF00FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FF00FF" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: 'Share Tech Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace; }
+      .wordmark { font-size: 84px; font-weight: bold; letter-spacing: 6px; }
+      .hud { font-size: 15px; letter-spacing: 4px; }
+      .sub { font-size: 17px; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="260" fill="#000000"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <ellipse cx="380" cy="140" rx="420" ry="160" fill="url(#glow)"/>
+
+  <!-- HUD corner slashes -->
+  <path d="M 24 24 h 46 M 24 24 v 46" stroke="#FF00FF" stroke-width="2" fill="none"/>
+  <path d="M 1176 236 h -46 M 1176 236 v -46" stroke="#FF00FF" stroke-width="2" fill="none"/>
+  <path d="M 1176 24 h -26 M 1176 24 v 26" stroke="#00FFFF" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M 24 236 h 26 M 24 236 v -26" stroke="#00FFFF" stroke-width="2" fill="none" opacity="0.7"/>
+
+  <!-- top hud line -->
+  <text x="60" y="58" class="mono hud" fill="#00FFFF" opacity="0.85">// SYSTEMS ONLINE</text>
+  <text x="1140" y="58" class="mono hud" fill="#FF00FF" text-anchor="end" opacity="0.85">// LRNZN.CLOUD</text>
+
+  <!-- glitch wordmark: cyan ghost / magenta ghost / white main -->
+  <g class="mono wordmark">
+    <text x="58" y="152" fill="#00FFFF" opacity="0.8">FBNLRZ
+      <animate attributeName="x" values="58;60;58;58;57;58" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="62" y="156" fill="#FF00FF" opacity="0.8">FBNLRZ
+      <animate attributeName="x" values="62;60;62;62;63;62" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="154" fill="#FFFFFF">FBNLRZ</text>
+  </g>
+
+  <!-- sub line -->
+  <text x="62" y="196" class="mono sub" fill="#FFFFFF" opacity="0.9">SYSTEMS ENGINEER ▸ VIRTUALIZATION // HOMELAB // SMART HOME</text>
+
+  <!-- stat readout -->
+  <g class="mono hud">
+    <text x="62" y="228" fill="#00FFFF">[ 2 NODES ]</text>
+    <text x="212" y="228" fill="#FF00FF">[ 30+ LXC ]</text>
+    <text x="356" y="228" fill="#00FFFF">[ TOKYO 2027 ⟶ ]</text>
+    <text x="560" y="228" fill="#FFFFFF" opacity="0.85">_
+      <animate attributeName="opacity" values="0.85;0;0.85" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- wireframe geometry, right side -->
+  <g stroke-width="1.5" fill="none">
+    <path d="M 980 110 l 60 -40 l 30 70 z" stroke="#FF00FF" opacity="0.65">
+      <animate attributeName="opacity" values="0.65;0.9;0.65" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 986 116 l 60 -40 l 30 70 z" stroke="#00FFFF" opacity="0.4"/>
+    <path d="M 900 190 l 14 -22 l -8 -2 l 16 -20 l -6 26 l 8 2 z" stroke="#00FFFF" opacity="0.7"/>
+    <path d="M 1100 170 l 8 12 l -8 12 l -8 -12 z" stroke="#FF00FF" opacity="0.7"/>
+  </g>
+</svg>

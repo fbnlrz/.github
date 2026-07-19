@@ -1,0 +1,12 @@
+<svg viewBox="0 0 300 56" width="300" height="56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ko-fi — fuel the flight">
+  <defs>
+    <style>.mono { font-family: 'Share Tech Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace; }</style>
+  </defs>
+  <!-- chamfered panel: cut top-left + bottom-right -->
+  <path d="M 14 1 H 299 V 41 L 286 55 H 1 V 15 Z" fill="#000000" stroke="#FF00FF" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 14 5 H 295" stroke="#FF00FF" stroke-width="1" opacity="0.35"/>
+  <text x="20" y="35" class="mono" font-size="17" letter-spacing="2" fill="#FFFFFF">KO-FI</text>
+  <text x="94" y="35" class="mono" font-size="17" letter-spacing="2" fill="#FF00FF">▸ FUEL THE FLIGHT</text>
+</svg>
