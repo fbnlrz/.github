@@ -11,7 +11,7 @@
 
 By day I work on KVM virtualization at scale: hypervisor fleets, HA compute clusters, server hardware, and the occasional 3am incident. By night I run a two-node Proxmox cluster plus a couple of netcup boxes, and automate my apartment with a Homey Pro (~60 devices, more flows than rooms).
 
-Besides that I'm a collaborator at [**TREK**](https://github.com/liketrek/TREK) (self-hosted travel planner), handling community management and building the [trek-plugin-dev](https://github.com/fbnlrz/trek-plugin-skill) skill — idea to published plugin in one conversation.
+Besides that I'm a collaborator at [**TREK**](https://github.com/liketrek/TREK) (self-hosted travel planner), handling community management and maintaining the [Plugin-Skill](https://github.com/liketrek/Plugin-Skill) skill — which was built by me and is now Part of the TREK-Org - idea to published plugin in one conversation.
 
 ## What's running
 
