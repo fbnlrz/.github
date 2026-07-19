@@ -1,92 +1,66 @@
 <div align="center">
 
-#  Hey, I'm Fabi
-
-**Systems Engineer Virtualization ⚙️ · Homelab Tinkerer 🏠 · Vibecoder ⚡**
-
-*Somewhere between blinking server racks and neon lights.*
+![fbnlrz](assets/header.svg)
 
 [![Website](https://img.shields.io/badge/lrnzn.cloud-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lrnzn.cloud)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF00FF?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/fbnlrz)
-[![Buy Me A Coffee](https://img.shields.io/badge/Flight%20to%20Japan-✈️%20Fund-00FFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/fbnlrz)
+[![TREK](https://img.shields.io/badge/TREK-Collaborator-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/liketrek/TREK)
 
 </div>
 
----
+## What I do
 
-## ⚡ What I do
+By day I work on KVM virtualization at scale: hypervisor fleets, HA compute clusters, server hardware, and the occasional 3am incident. By night I run a two-node Proxmox cluster plus a couple of netcup boxes, and automate my apartment with a Homey Pro (~60 devices, more flows than rooms).
 
-- 🖥️ **By day:** KVM virtualization at scale — hypervisor fleets, High Availability Coompute Clusters, server hardware, incident firefighting
-- 🏠 **By night:** Self-hosting way too many services on my Proxmox cluster and a few netcup Servers
-- 🤖 **Smart home:** Homey Pro with ~60 devices and more automations than rooms
-- ⚡ **Vibecoding:** Shipping side projects by describing them to an AI until they exist
+Besides that I'm a collaborator at [**TREK**](https://github.com/liketrek/TREK) (self-hosted travel planner), handling community management and building the [trek-plugin-dev](https://github.com/fbnlrz/trek-plugin-skill) skill — idea to published plugin in one conversation.
 
+## What's running
 
-## 🎓 Certifications
- 
+```text
+hogwarts ─── hogsmeade                 proxmox · 2 nodes · 30+ lxc
+ │
+ ├─ edge       traefik · newt (pangolin) · voidauth · pocketid · tinyauth
+ │             └─ yes, three auth services. it's been a journey.
+ ├─ media      jellyfin · jellyseerr · immich · tracearr · bookorbit
+ ├─ paperwork  paperless-ngx · mealie · jotty · languagetool
+ ├─ mail       protonmail-bridge · mail-archiver
+ ├─ data       postgresql ×2 · homeyfileserv · heimdall
+ ├─ ai / dev   ollama · jenkins · devserver
+ ├─ games      pelican panel + wings — game servers for friends
+ ├─ web        lrnzn.cloud · bpm-rec.de (I host it, they build it)
+ └─ travel     trek — obviously
+```
+
+The `bpm-rec.de` one is the site of a music crew I'm friends with — I just keep it online, the content is theirs.
+
+## Certifications
+
 ![Lenovo Self Maintainer](https://img.shields.io/badge/Lenovo-Authorized_Self_Maintainer-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
- 
+
 Authorized under the **Lenovo Self Maintainer Program** to perform in-warranty service and parts replacement on ThinkSystem hardware.
- 
+
 <details>
 <summary><b>Completed ThinkSystem Service Training</b> — Lenovo ISG Services Education, Sept 2025</summary>
 <br>
-- Servicing the ThinkSystem (multiple Models) 
+
+- Servicing the ThinkSystem (multiple models)
 - AMD EPYC Processor Architecture for ThinkSystem Servers
 - Servicing ThinkSystem Storage Controllers
 - Servicing the ThinkSystem 4350/5350/9350 RAID/HBA Series Adapters
 - ThinkSystem Problem Determination
+
 </details>
 
-## 🛠️ Stack
+## Japan 2027
 
-**Self-hosted services**
+Halloween 2027, Japan, with my best friends. Planned in TREK, obviously. I'm saving up for the flights — if anything I've built saved you some time, a coffee goes straight into the fund:
 
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
-![Jellyseerr](https://img.shields.io/badge/Jellyseerr-5A67D8?style=flat-square)
-![Sonarr](https://img.shields.io/badge/Sonarr-2596BE?style=flat-square&logo=sonarr&logoColor=white)
-![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=flat-square&logo=radarr&logoColor=black)
-![Prowlarr](https://img.shields.io/badge/Prowlarr-E66000?style=flat-square)
-![Immich](https://img.shields.io/badge/Immich-4250AF?style=flat-square&logo=immich&logoColor=white)
-![Paperless-ngx](https://img.shields.io/badge/Paperless--ngx-17541F?style=flat-square&logo=paperlessngx&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Mealie](https://img.shields.io/badge/Mealie-E58325?style=flat-square)
-![Cloudreve](https://img.shields.io/badge/Cloudreve-409EFF?style=flat-square)
-![Heimdall](https://img.shields.io/badge/Heimdall-1A2226?style=flat-square)
-![VoidAuth](https://img.shields.io/badge/VoidAuth-7C3AED?style=flat-square)
-![Wizarr](https://img.shields.io/badge/Wizarr-FB923C?style=flat-square)
-![LanguageTool](https://img.shields.io/badge/LanguageTool-45A2E2?style=flat-square)
-![Mail--Archiver](https://img.shields.io/badge/Mail--Archiver-334155?style=flat-square)
-![Proton Bridge](https://img.shields.io/badge/Proton_Bridge-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)
-![Mailcow](https://img.shields.io/badge/Mailcow-E77918?style=flat-square)
-![Stalwart](https://img.shields.io/badge/Stalwart-DC2626?style=flat-square)
-![Roundcube](https://img.shields.io/badge/Roundcube-37BEFF?style=flat-square&logo=roundcube&logoColor=white)
-![Pelican](https://img.shields.io/badge/Pelican_Panel-0F172A?style=flat-square)
-![Newt](https://img.shields.io/badge/Newt_(Pangolin)-F97316?style=flat-square)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![TREK](https://img.shields.io/badge/TREK-FF00FF?style=flat-square)
+[<img src="assets/btn-kofi.svg" alt="Ko-fi — fuel the flight" height="56">](https://ko-fi.com/fbnlrz)
+[<img src="assets/btn-bmac.svg" alt="Buy Me a Coffee — Japan fund" height="56">](https://buymeacoffee.com/fbnlrz)
 
-## ⛩️ Mission: Japan 2027
-
-Saving up for the trip of a lifetime — **Halloween 2027 in Japan** with my best friends.
-Tokyo neon, shrine gates, ramen at 2am. Every coffee fuels the flight fund. ✈️
-
-[![Ko-fi](https://img.shields.io/badge/☕_Fuel_the_flight⛩️-FF00FF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/fbnlrz)
-[![Buy Me A Coffee](https://img.shields.io/badge/Flight_to_Japan-✈️_Fund-00FFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/fbnlrz)
-
-## 📊 Stats
+## Stats
 
 <div align="center">
 
 ![Stats](https://streak-stats.demolab.com/?user=fbnlrz&theme=neon-dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*ありがとう & stay neon 💜*
 
 </div>
